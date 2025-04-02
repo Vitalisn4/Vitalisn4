@@ -62,7 +62,7 @@ I am passionate about **building scalable applications**, **exploring cybersecur
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vitalisn4&theme=dark&hide_border=true" height="180">
+  <img src="https://streak-stats.demolab.com/?user=Vitalisn4&theme=dark&hide_border=true" height="180">
 </div>
 
 ---
@@ -104,5 +104,9 @@ I am passionate about **building scalable applications**, **exploring cybersecur
 
 ---
 
-## 😊 **Happy you stopped by!**  
-Thank you for visiting my profile! Looking forward to learning and collaborating with amazing developers around the world. 🚀
+## 😊 **Happy you stopped by!**
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200">
+</div>
+Thank you for visiting my profile! Looking forward to learning and collaborating with amazing developers around the world. 🚀✨
+
