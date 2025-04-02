@@ -104,9 +104,14 @@ I am passionate about **building scalable applications**, **exploring cybersecur
 
 ---
 
-## 😊 **Happy you stopped by!**
+## 😊 **Happy you stopped by!**  
+
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200">
-</div>
-Thank you for visiting my profile! Looking forward to learning and collaborating with amazing developers around the world. 🚀✨
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300">
+</div>  
+
+Thank you for visiting my profile! 😊  
+Let's **connect, learn, and build amazing things together**! 🚀✨  
+
+**Stay curious. Keep coding. Never stop learning!** 💡👨‍💻  
 
