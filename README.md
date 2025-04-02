@@ -8,14 +8,17 @@
 ---
 
 ## 🧑‍💻 About Me  
-I am an **aspiring Software Engineer** with a strong focus on **Cloud Computing**.  
-Currently, I am a **Computer Science student at the University of the People** and a proud beneficiary of the **Power Learn Project Scholarship Program**, where I am gaining hands-on experience in:  
-- 🌐 **Web Development**  
-- 🐍 **Python**  
-- 🗄️ **Database Design & SQL Programming**  
-- 🚀 **Startups & Entrepreneurship** 
+I am an **aspiring Software Engineer** with a strong focus on **Cloud Computing**. Currently, I am a **Computer Science student at the University of the People** and a proud beneficiary of the **Power Learn Project Scholarship Program**, where I am gaining hands-on experience in:
 
-I am passionate about building **scalable applications**, **exploring cybersecurity**, and keeping up with **cutting-edge technology trends**.  
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Web%20Development-0C9CEE?style=for-the-badge&logo=javascript&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Startups%20&%20Entrepreneurship-FF5733?style=for-the-badge&logo=rocket&logoColor=white"></a>
+</div>
+
+I am passionate about **building scalable applications**, **exploring cybersecurity**, and staying up-to-date with **cutting-edge technology trends**.  
+ 
 
 ---
 
