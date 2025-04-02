@@ -62,7 +62,7 @@ I am passionate about **building scalable applications**, **exploring cybersecur
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vitalisn4&theme=dark&hide_border=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vitalisn4&theme=dark&hide_border=true" height="180">
 </div>
 
 ---
